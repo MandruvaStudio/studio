@@ -1,0 +1,2 @@
+# studio
+texto politico
